@@ -63,8 +63,8 @@ TransPark), and North Carolina's Southeast Commission (assisting 11
 counties)
 
 
-[./Untitled (9).png](image of 7 economic regions in NC)
-[./Untitled (10).png](image of regions sectioned with counties labeled)
+![./Untitled (9).png](image of 7 economic regions in NC)
+![./Untitled (10).png](image of regions sectioned with counties labeled)
 
 [https://en.wikipedia.org/wiki/Eastern_North_Carolina#:~:text=Generally%2C the region denotes all,Inner and Outer Coastal Plains](https://en.wikipedia.org/wiki/Eastern_North_Carolina#:~:text=Generally%2C%20the%20region%20denotes%20all,Inner%20and%20Outer%20Coastal%20Plains).
 

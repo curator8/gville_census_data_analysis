@@ -22,16 +22,14 @@ Population tables:
 * have a population table where it has population for each county in North Carolina
 for 2019 and 2015
 * separate into respective ethnic groups
-
-separated by region within NC:
-* inner banks (ENC)
-* outer banks (ENC)
-* southeast (ENC)
-* sandhills (ENC)
-* triangle (MIDDLE)
-* piedmont triad (MIDDLE)
-* metrolina (MIDDLE)
-* mountains (WESTERN)
+* counties in inner banks (ENC)
+* counites in outer banks (ENC)
+* counties in southeast (ENC)
+* counties in sandhills (ENC)
+* counties in triangle (MIDDLE)
+* counties in piedmont triad (MIDDLE)
+* counties in metrolina (MIDDLE)
+* counties in mountains (WESTERN)
 
 Economic tables
 * have a table with total expenditure per county
@@ -52,8 +50,8 @@ Economic tables
 > counties)
 
 
-![image of 7 economic regions in NC]('Untitled (9).png')
-![image of regions sectioned with counties labeled]('Untitled (10).png')
+![image of 7 economic regions in NC](Untitled (9).png)
+![image of regions sectioned with counties labeled](Untitled (10).png)
 
 [https://en.wikipedia.org/wiki/Eastern_North_Carolina#:~:text=Generally%2C the region denotes all,Inner and Outer Coastal Plains](https://en.wikipedia.org/wiki/Eastern_North_Carolina#:~:text=Generally%2C%20the%20region%20denotes%20all,Inner%20and%20Outer%20Coastal%20Plains).
 [https://en.wikipedia.org/wiki/Eastern_North_Carolina](https://en.wikipedia.org/wiki/Eastern_North_Carolina)

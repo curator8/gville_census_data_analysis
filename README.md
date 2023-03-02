@@ -50,7 +50,7 @@ Economic tables:
 ![image of 7 economic regions in NC](https://github.com/curator8/gville_census_data_analysis/blob/main/Untitled%20(9).png)
 ![image of regions sectioned with counties labeled](https://github.com/curator8/gville_census_data_analysis/blob/main/Untitled%20(10).png)
 
-https://en.wikipedia.org/wiki/Eastern_North_Carolina
+https://en.wikipedia.org/wiki/Eastern_North_Carolina,
 https://www.ncpedia.org/our-state-geography-snap-three
 
 

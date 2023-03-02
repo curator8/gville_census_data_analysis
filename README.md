@@ -31,15 +31,12 @@ for 2019 and 2015
 * counties in metrolina (MIDDLE)
 * counties in mountains (WESTERN)
 
-Economic tables
-* have a table with total expenditure per county
-* have a table with total investment per county and split into separate industries
-* have a table with gross earnings per county and broken down into ethnic groups
-* show how many people are renting versus buying
-* have a table with all the buyers
-* break them down into ethnic group
-* have a table with all the renters organize by county
-* break them down into ethnic group
+Economic tables:
+* total expenditure per county
+* total investment per county and split into separate industries
+* gross earnings per county and broken down into ethnic groups
+* total renting per county broken down into ethnic groups 
+* total house buying per county broken down into ethnic groups
 
 
 > 💡 In 1993, the State Legislature established seven regional economic
@@ -50,8 +47,8 @@ Economic tables
 > counties)
 
 
-![image of 7 economic regions in NC](Untitled (9).png)
-![image of regions sectioned with counties labeled](Untitled (10).png)
+![image of 7 economic regions in NC](./Untitled (9).png)
+![image of regions sectioned with counties labeled](./Untitled (10).png)
 
 [https://en.wikipedia.org/wiki/Eastern_North_Carolina#:~:text=Generally%2C the region denotes all,Inner and Outer Coastal Plains](https://en.wikipedia.org/wiki/Eastern_North_Carolina#:~:text=Generally%2C%20the%20region%20denotes%20all,Inner%20and%20Outer%20Coastal%20Plains).
 [https://en.wikipedia.org/wiki/Eastern_North_Carolina](https://en.wikipedia.org/wiki/Eastern_North_Carolina)

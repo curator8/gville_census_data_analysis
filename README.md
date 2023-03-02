@@ -22,14 +22,18 @@ Population tables:
 * have a population table where it has population for each county in North Carolina
 for 2019 and 2015
 * separate into respective ethnic groups
-* counties in inner banks (ENC)
-* counites in outer banks (ENC)
-* counties in southeast (ENC)
-* counties in sandhills (ENC)
-* counties in triangle (MIDDLE)
-* counties in piedmont triad (MIDDLE)
-* counties in metrolina (MIDDLE)
-* counties in mountains (WESTERN)
+* counties in inner banks (ENC)(REGION 1)
+* counites in outer banks (ENC)(REGION 1)
+* counties in southeast (ENC)(REGION 2)
+* counties in sandhills (ENC)(REGION 3)
+* counties in triangle (MIDDLE)(REGION 4)
+* counties in piedmont triad (MIDDLE)(REGION 5)
+* counties in metrolina (MIDDLE)(REGION 6)
+* counties in mountains (WESTERN)(REGION 7)
+
+note: REGION refers to economical areas
+i.e. inner banks and outers banks are separate geographic areas but considered part of the same economical region
+
 
 Economic tables:
 * total expenditure per county
@@ -57,5 +61,8 @@ https://www.ncpedia.org/our-state-geography-snap-three
 **Definition of gentrification:**
 
 the process whereby the character of a poor urban area is changed by wealthier people moving in, improving housing, and attracting new businesses, typically displacing current inhabitants in the process.
+
+
+
 
 https://www.google.com/search?q=definition+of+gentrification&rlz=1C1RXQR_enUS1038US1038&oq=definition+of+gentrif&aqs=chrome.0.0i512j69i57j0i512l5j0i22i30l2j0i15i22i30.3180j1j4&sourceid=chrome&ie=UTF-8

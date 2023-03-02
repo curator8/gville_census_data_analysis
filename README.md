@@ -50,9 +50,12 @@ Economic tables:
 ![image of 7 economic regions in NC](https://github.com/curator8/gville_census_data_analysis/blob/main/Untitled%20(9).png)
 ![image of regions sectioned with counties labeled](https://github.com/curator8/gville_census_data_analysis/blob/main/Untitled%20(10).png)
 
-[https://en.wikipedia.org/wiki/Eastern_North_Carolina#:~:text=Generally%2C the region denotes all,Inner and Outer Coastal Plains](https://en.wikipedia.org/wiki/Eastern_North_Carolina#:~:text=Generally%2C%20the%20region%20denotes%20all,Inner%20and%20Outer%20Coastal%20Plains).
-[https://en.wikipedia.org/wiki/Eastern_North_Carolina](https://en.wikipedia.org/wiki/Eastern_North_Carolina)
+https://en.wikipedia.org/wiki/Eastern_North_Carolina
+https://www.ncpedia.org/our-state-geography-snap-three
+
 
 **Definition of gentrification:**
 
 the process whereby the character of a poor urban area is changed by wealthier people moving in, improving housing, and attracting new businesses, typically displacing current inhabitants in the process.
+
+https://www.google.com/search?q=definition+of+gentrification&rlz=1C1RXQR_enUS1038US1038&oq=definition+of+gentrif&aqs=chrome.0.0i512j69i57j0i512l5j0i22i30l2j0i15i22i30.3180j1j4&sourceid=chrome&ie=UTF-8

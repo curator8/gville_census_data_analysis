@@ -47,8 +47,8 @@ Economic tables:
 > counties)
 
 
-![image of 7 economic regions in NC]('Untitled (9).png')
-![image of regions sectioned with counties labeled]('Untitled (10).png')
+![image of 7 economic regions in NC](https://github.com/curator8/gville_census_data_analysis/blob/main/Untitled%20(9).png)
+![image of regions sectioned with counties labeled](https://github.com/curator8/gville_census_data_analysis/blob/main/Untitled%20(10).png)
 
 [https://en.wikipedia.org/wiki/Eastern_North_Carolina#:~:text=Generally%2C the region denotes all,Inner and Outer Coastal Plains](https://en.wikipedia.org/wiki/Eastern_North_Carolina#:~:text=Generally%2C%20the%20region%20denotes%20all,Inner%20and%20Outer%20Coastal%20Plains).
 [https://en.wikipedia.org/wiki/Eastern_North_Carolina](https://en.wikipedia.org/wiki/Eastern_North_Carolina)

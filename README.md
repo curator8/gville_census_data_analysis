@@ -58,6 +58,8 @@ https://en.wikipedia.org/wiki/Eastern_North_Carolina,
 https://www.ncpedia.org/our-state-geography-snap-three
 
 
+# What's Gentrification 
+
 **Definition of gentrification:**
 
 the process whereby the character of a poor urban area is changed by wealthier people moving in, improving housing, and attracting new businesses, typically displacing current inhabitants in the process.
@@ -66,3 +68,22 @@ the process whereby the character of a poor urban area is changed by wealthier p
 
 
 https://www.google.com/search?q=definition+of+gentrification&rlz=1C1RXQR_enUS1038US1038&oq=definition+of+gentrif&aqs=chrome.0.0i512j69i57j0i512l5j0i22i30l2j0i15i22i30.3180j1j4&sourceid=chrome&ie=UTF-8
+
+
+
+
+https://www.investopedia.com/terms/g/gentrification.asp#:~:text=The%20Causes%20of%20Gentrification%201%20Rapid%20job%20growth,one%20location%20to%20the%20next.%20...%20More%20items
+
+
+Gentrification is the transformation of a city neighborhood from low value to high value. Gentrification is also viewed as a process of urban development in which a neighborhood or portion of a city develops rapidly in a short period of time, often as a result of urban-renewal programs. This process is often marked by inflated home prices and displacement of a neighborhood's previous residents.
+
+
+Gentrification is a complex social issue with both benefits and drawbacks. Young families welcome the opportunity to buy reasonably priced homes in a safe community with sound infrastructure, and a wide choice of amenities and services. Local municipalities and governments also benefit from collecting higher taxes on rising property values and increased economic activity. However, the neighborhoods' original inhabitants—also families, as well as singles of various ages—are often displaced from the very community that they helped build because of rising rents and a higher cost of living.
+
+
+
+we need the following metrics per county in NC 
+* building permits 
+* housing starts
+* new home sales (look into how it's changed over the years)
+* price of rent over the last 5 years (2015-2019)
